@@ -8,7 +8,7 @@
 * Requires at least: 5.2
 * Requires PHP:      7.2
 * Author:            Shakib Shown
-* Author URI:        https://github.com/shakib6472/
+* Author URI:        https://github.com/shakib6472/ 
 * License:           GPL v2 or later
 * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 * Text Domain:       imagedynamic-by-shakib

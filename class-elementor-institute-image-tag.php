@@ -3,7 +3,7 @@ if ( ! defined('ABSPATH') ) exit;
 
 class Elementor_Institute_Image_Tag extends \Elementor\Core\DynamicTags\Data_Tag {
 
-    public function get_name() {
+    public function get_name() { 
         return 'institute-image';
     }
 
