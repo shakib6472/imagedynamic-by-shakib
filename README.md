@@ -28,7 +28,10 @@ A custom WordPress plugin to provide dynamic image tags for Elementor, specifica
 ## Author
 
 - Shakib Shown  
-- [GitHub](https://github.com/shakib6472/)
+ -- [GitHub](https://github.com/shakib6472/)
+ -- [Facebook](https://facebook.com/shakib6472)
+ -- [Linkedin](https://www.linkedin.com/in/shakib6472s/)
+ -- [Website](www.shakib6472.com)
 
 ## License
 
